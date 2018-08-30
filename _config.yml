@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My First Blog"
+title                    : "My First Blog Under Construction. Please visit after few days. Thank You !!!"
 title_separator          : "-"
 name                     : &name "Akhilesh Pandey"
 description              : &description "personal description"
@@ -30,7 +30,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Akhilesh Pandey', 'akhil.pan.darj@gmail.com', 'akhilesh-pandey.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -79,30 +79,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Akhilesh Pandey"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MTech(cs), MSc(Maths and comp. sc), BSc.(Maths(Major), Phys, Chem)"
+  location         : "Darjeeling"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  email            :akhil.pan.darj@gmail.com
+  uri              :akhilesh-pandey.github.io
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "akhilesh-pandey"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :akhilespandey
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/5349822/akhilesh-pandey
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
